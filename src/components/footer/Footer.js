@@ -10,12 +10,12 @@ const Footer = () => {
           <ul className="social">
             <li className="social__item">
               <a href="https://github.com/TemaTut">
-                <img src={gitHub} alt="Link" />
+                <img src={ gitHub } alt="Link" />
               </a>
             </li>
           </ul>
           <div className="copyright">
-            <p> 2023 </p>
+            <p> 2022 </p>
           </div>
         </div>
       </div>
